@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "160384011239",
+    "project_id": "login-page-rifas",
+    "storage_bucket": "login-page-rifas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160384011239:android:cda40be2615e8f0a3b8b42",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160384011239-3ca4fvioirhkjasi7gdv9cpk7gbes76q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe06gyQRe3vdqdsdzpryJ8BXyDKdTYYFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160384011239-3ca4fvioirhkjasi7gdv9cpk7gbes76q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
