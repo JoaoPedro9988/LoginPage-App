@@ -3,6 +3,7 @@ import 'package:get/get.dart';
 import 'package:login_page/pages/login.page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:provider/provider.dart';
+import 'package:login_page/pages/home.page.dart';
 
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -22,7 +23,8 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
       ),
-      home: LoginPage(),
+      home: LoginPage(
+      ),
     ),
   );
 }
