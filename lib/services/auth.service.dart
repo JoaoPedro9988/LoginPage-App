@@ -4,7 +4,7 @@ import 'package:login_page/pages/login.page.dart';
 import 'package:provider/provider.dart';
 import 'package:login_page/pages/home.page.dart';
 
-class HomePage extends StatelessWidget {
+class LogIn extends StatelessWidget {
   @override
   Widget build(BuildContext context) => Scaffold(
     body: ChangeNotifierProvider(
